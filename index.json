@@ -1,0 +1,45 @@
+{
+    "num_inputs": 6,
+    "num_prompts": 41,
+    "categories": [
+        "Accessory",
+        "Action",
+        "Background",
+        "Clothing",
+        "Expression",
+        "General",
+        "View"
+    ],
+    "inputs": [
+        {
+            "id": "img_001.webp",
+            "path": "inputs/img_001.webp",
+            "metrics": "metrics/img_001.webp.json"
+        },
+        {
+            "id": "img_002.webp",
+            "path": "inputs/img_002.webp",
+            "metrics": "metrics/img_002.webp.json"
+        },
+        {
+            "id": "img_003.webp",
+            "path": "inputs/img_003.webp",
+            "metrics": "metrics/img_003.webp.json"
+        },
+        {
+            "id": "img_101.webp",
+            "path": "inputs/img_101.webp",
+            "metrics": "metrics/img_101.webp.json"
+        },
+        {
+            "id": "img_102.webp",
+            "path": "inputs/img_102.webp",
+            "metrics": "metrics/img_102.webp.json"
+        },
+        {
+            "id": "img_103.webp",
+            "path": "inputs/img_103.webp",
+            "metrics": "metrics/img_103.webp.json"
+        }
+    ]
+}
